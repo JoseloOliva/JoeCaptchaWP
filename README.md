@@ -1,24 +1,16 @@
-# JoeCaptchaWP
-Description: Agrega a captcha to the WordPress login form, attachment media files, and all WordPress comments.
-Instalación
-Descarga el archivo ZIP del plugin desde el repositorio en GitHub.
-Descomprime el archivo ZIP y sube la carpeta del plugin a la carpeta wp-content/plugins/ de tu sitio WordPress.
-Activa el plugin desde el panel de administración de WordPress.
-Uso
-Tambien puedes instalarlo como cualquier otro plugin.
+Description: Add captcha to the WordPress login form, attachment media files, and all WordPress comments. 
 
-Configuración
-Solo se instala y listo quedan cubiertoas las secciones de comentarios , el login y los archivos adjuntos.
+Installation Download the plugin ZIP file from the GitHub repository. Unzip the ZIP file and upload the plugin folder to the wp-content/plugins/ folder on your WordPress site. 
+Activate the plugin from the WordPress administration panel. Usage You can also install it like any other plugin.
 
-Contribución
-Si quieres contribuir al desarrollo del plugin, puedes hacerlo a través del repositorio en GitHub. Incluye instrucciones detalladas sobre cómo los desarrolladores pueden contribuir a tu proyecto.
+Configuration It is simply installed and ready to cover the comments sections, login, and attachments.
 
-Créditos
-Aquí puedes dar crédito a las personas que han contribuido al desarrollo del plugin, así como a los recursos externos que hayas utilizado.
+Contribution If you want to contribute to the development of the plugin, you can do so through the GitHub repository. It includes detailed instructions on how developers can contribute to your project.
 
-Licencia 
-GPL2
+Credits Here you can give credit to the people who have contributed to the development of the plugin, as well as the external resources you have used.
 
-Contacto
+License GPL
 
-Si quieres ayudar o contribuir , consultar  puedes hacerlo a jose@starmotifmedia.com
+Contact:
+
+If you want to help or contribute, you can do so by contacting jose@starmotifmedia.com.
