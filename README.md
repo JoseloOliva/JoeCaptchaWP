@@ -17,7 +17,7 @@ Créditos
 Aquí puedes dar crédito a las personas que han contribuido al desarrollo del plugin, así como a los recursos externos que hayas utilizado.
 
 Licencia 
-GPL
+GPL2
 
 Contacto
 
