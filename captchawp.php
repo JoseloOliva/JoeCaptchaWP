@@ -111,10 +111,3 @@ function validar_campo($campo) {
   $campo = htmlspecialchars($campo);
   return $campo;
 }
-/*En esta parte del código, se verifica si el formulario ha sido enviado usando $_SERVER['REQUEST_METHOD'] === 'POST'. Si se ha enviado, se procede a validar cada campo del formulario.
-
-Para cada campo, se verifica si está vacío. Si está vacío, se agrega un mensaje de error a la matriz $errores. Si no está vacío, se llama a la función validar_campo() para limpiar el campo de cualquier posible código malicioso. En el caso del campo "email", también se verifica si es un correo electrónico válido usando filter_var().
-
-Después de validar todos los campos, se verifica si hay algún error. Si no hay errores, se crea el contenido del correo electrónico y se envía usando la función mail(). Luego, se redirige al usuario a una página de confirmación usando header('Location: confirmacion.html').
-
-La función validar_campo() se utiliza para eliminar cualquier posible código malicioso del campo del formulario antes de enviarlo. La función trim() se utiliza para eliminar cualquier espacio en blanco al principio y al final del campo. La función stripslashes() se utiliza para eliminar cualquier barra invertida que se haya agregado para escapar de*/
